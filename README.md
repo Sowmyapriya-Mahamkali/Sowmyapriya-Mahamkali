@@ -59,20 +59,24 @@ FastAPI • Streamlit • Jupyter • Postman
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sowmyapriya-Mahamkali&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sowmyapriya-Mahamkali&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sowmyapriya-Mahamkali&show_icons=true&theme=radical" height="165">
+  <img src="https://readme-stats.vercel.app/api/top-langs/?username=Sowmyapriya-Mahamkali&layout=compact&theme=radical" height="165">
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Sowmyapriya-Mahamkali&theme=radical" height="165">
+</p>
 
 ---
 
 ## 🌐 Connect With Me
-📧 Email: sowmyapriya7325@gmail.com 
+📧 Email: sowmyapriya7325@gmail.com  
 💼 LinkedIn: Coming soon...  
 
 ---
 
-⭐ **Building impactful AI systems with Lalitha.**
+⭐ **Building impactful AI systems with Lalitha.**  
 ⭐ **Preparing for internships and high-package AI roles.**
